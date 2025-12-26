@@ -9,7 +9,7 @@ Official Code for paper "Crucial-Diff: A Unified Diffusion Model for Crucial Ima
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/crucial-diff.git
+git clone https://github.com/JJessicaYao/crucial-diff.git
 cd crucial-diff
 
 # Install dependencies
